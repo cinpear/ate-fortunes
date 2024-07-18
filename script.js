@@ -30,7 +30,7 @@ const fortuneList = [
         img: "wolfchan6.PNG"
     },
     {
-        text: "Straightening your back would do wonders for your posture. Stop slouching!",
+        text: "Straightening your back would do wonders for your posture.",
         img: "wolfchan7.PNG"
     },
     {
