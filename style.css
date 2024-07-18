@@ -1,0 +1,44 @@
+
+body {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 95vh;
+}
+
+h1 {
+    margin: 0px 0px 5px 0px;
+    padding: 0;
+}
+
+.wrapper .img-area {
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.img-area img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+button {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#fortune {
+    font-size: 18px;
+}
+
+footer {
+    position: absolute;
+    bottom: 10px;
+}
